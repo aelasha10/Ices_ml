@@ -19,4 +19,4 @@ print(full_array)
 random_array = np.random.rand(2, 3)  #2 by 3 matrix
 print("2x3 array with random values between 0 and 1:")
 print(random_array)
-# A 5x5 array with values from 1 to 25 reshaped using np.arange() and np.reshape()
+
